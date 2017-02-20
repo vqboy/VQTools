@@ -12,9 +12,19 @@
 ###1.导入库
 	--------------------------version:0.0.1--------------------------
 	引入依赖的系统库：
+	⁃	UIKit.framework
+	⁃	Foundation.framework
 	⁃	CoreTelephony.framework
+	⁃	AudioToolbox.framework
+	⁃	AVFoundation.framework
+	⁃	AssetsLibrary.framework
+	⁃	Photos.framework
+	⁃	CoreLocation.framework
+	⁃	MediaPlayer.framework
 	引入依赖的第三方库：
 	⁃	AFNetworking
+	集成的第三方库：
+	-	libmp3lame.a
 ###2.增加什么方法
 	--------------------------version:0.0.1--------------------------
 	↓*↓*↓*↓*↓*↓*↓*↓*↓*↓ 类方法 ↓*↓*↓*↓*↓*↓*↓*↓*↓*↓
